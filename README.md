@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 -->
-- 🎓 I'm currently a PhD candidate at Yale University.
-- 🔭 My research focuses on learning of randomized reductions and program properties ([Bitween](https://bitween.fun)), with applications in
-  - safeguarding LLM outputs, sofware testing, and verification.
-  - hardware security, private circuits and quantum circuits.
+- 🎓 I'm a PhD graduate from Yale University.
+- 🔭 My current research focuses on training transformers: 
+  - to solve NP-complete problems using reinforcement learning and
+  - to improve test-time compute strategies for reasoning.
 - ⚡ I apply ML/AI and Automated Reasoning techniques in my research.
 - 📕 I’m currently exploring the foundations of learning theory.
 - 💬 Ask me about program analysis and automated reasoning in general.
