@@ -5,11 +5,16 @@
 
 Here are some ideas to get you started:
 -->
-- 🎓 I'm a PhD graduate from Yale University.
-- 🔭 My current research focuses on training transformers: 
-  - to solve NP-complete problems using reinforcement learning and
-  - to improve test-time compute strategies for reasoning.
-- ⚡ I apply ML/AI and Automated Reasoning techniques in my research.
-- 📕 I’m currently exploring the foundations of learning theory.
-- 💬 Ask me about program analysis and automated reasoning in general.
+I'm **Ferhat Erata**, an Applied Scientist at **AWS AI**, working on Agentic AI and Neurosymbolic AI for Code, Security & Reasoning.
+
+- 🎓 PhD in Computer Science from **Yale University** (Advisor: Prof. Ruzica Piskac)
+- 🔭 My current research focuses on:
+  - Learning Randomized Reductions (ICML 2026 Spotlight: https://arxiv.org/abs/2412.18134)
+  - Training transformers to solve NP-complete problems using reinforcement learning (MCTS, PPO, DPO, GRPO)
+  - Neurosymbolic methods for AI safety — combining neural and symbolic reasoning to prevent hallucinations
+  - Behavioral Alignment of Specification and Code
+  - Semantic Program Compression
+  - Test-time compute strategies and regime-aware uncertainty estimation for LLM reasoning
+- 📕 Currently exploring the foundations of learning theory, program synthesis, and formal verification
+- 💬 Ask me about automated reasoning, program analysis, SAT/SMT solving, and neuro-symbolic AI
 - 📫 How to reach me: https://ferhat.ai
