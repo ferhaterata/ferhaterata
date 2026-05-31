@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-I'm **Ferhat Erata**, an Applied Scientist at **AWS AI**, working on Agentic AI and Neurosymbolic AI for Code, Security & Reasoning.
+I'm **Ferhat Erata**, an Applied Scientist at **AWS AI**, working on Agentic AI Safety and Neurosymbolic AI.
 
 - 🎓 PhD in Computer Science from **Yale University** (Advisor: Prof. Ruzica Piskac)
 - 🔭 My current research focuses on:
@@ -14,7 +14,6 @@ I'm **Ferhat Erata**, an Applied Scientist at **AWS AI**, working on Agentic AI 
   - Semantic Program Compression (Library Learning)
   - Training transformers to solve NP-complete problems with RL
   - Neurosymbolic methods for AI safety — combining neural and symbolic reasoning to prevent hallucinations
-  - Test-time compute strategies and regime-aware uncertainty estimation for LLM reasoning
 - 📕 Currently exploring the foundations of learning theory, program synthesis, and formal verification
 - 💬 Ask me about automated reasoning, program analysis, SAT/SMT solving, and neuro-symbolic AI
 - 📫 How to reach me: https://ferhat.ai
